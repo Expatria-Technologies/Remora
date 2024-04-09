@@ -34,9 +34,9 @@
 #include <netinet/in.h>
 
 
-#include "remora-eth-3.0.h"
+#include "remora-eth.h"
 
-#define MODNAME "remora-eth-3.0"
+#define MODNAME "remora-eth"
 #define PREFIX "remora"
 
 MODULE_AUTHOR("Scott Alford AKA scotta");
