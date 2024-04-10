@@ -3,7 +3,7 @@
 # Remora
 
 The full documentation is at <https://remora-docs.readthedocs.io/en/latest/>
-Note: Docs have not been updated for 1.0.0_rc
+Note: The Remora-eth component in this repo has been updated from the Remora-ec500 version.
 
 Remora is a free, opensource LinuxCNC component and Programmable Realtime Unit (PRU) firmware to allow LPC176x and STM32F4 based controller boards to be used in conjuction with a Raspberry Pi to implement a LinuxCNC based CNC controller.
 
